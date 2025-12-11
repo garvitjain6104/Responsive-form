@@ -1,1 +1,2 @@
+**Website Link**: 🔗https://garvitjain6104.github.io/My-Portfolio-Website/
 **Responsive Personal Portfolio** Website Designed and developed a high-performance, fully responsive portfolio website from scratch using **HTML5, CSS3, and Vanilla JavaScript**. The application features a modern dark-mode aesthetic with **Glassmorphism** UI elements, a custom interactive vertical timeline, and 3D tilt animations. Engineered with a mobile-first approach to ensure seamless usability and pixel-perfect rendering across all devices, hosted via **GitHub Pages**.
